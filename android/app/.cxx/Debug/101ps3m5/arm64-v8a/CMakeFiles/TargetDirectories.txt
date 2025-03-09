@@ -1,0 +1,2 @@
+C:/Users/ASUS/StudioProjects/restaurant_app-master-2/android/app/.cxx/Debug/101ps3m5/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/StudioProjects/restaurant_app-master-2/android/app/.cxx/Debug/101ps3m5/arm64-v8a/CMakeFiles/rebuild_cache.dir
